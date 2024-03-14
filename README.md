@@ -15,3 +15,4 @@
  2. Связать локальный и удаленный репозиторий (**git oush origin main**)
  3. Заполнение файла Readme.md используемые команды (**git status, git add, git commit -m**)
  4. Создаем папку **Task1 файл Program.cs**
+ 5. Добавление файл .gitignore
